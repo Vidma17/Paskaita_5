@@ -1,0 +1,81 @@
+body {
+    font-family: arial;
+    background-color: rgb(202, 202, 202);
+    margin: 50px;
+}
+
+header {
+    background-color: grey;
+}
+
+.logo {
+    padding: 0px 20px;
+    display: inline-block;
+}
+
+nav {
+    padding: 25px 200px 0px 0px;
+    display: inline-block;
+    float: right;
+}
+
+.navigation {
+    font-size: 24px;
+}
+
+div {
+    font-size: 0;
+}
+
+.banner {
+    background-color: grey;
+    text-align: center;
+    font-size: 24px;
+    padding: 50px 0;
+    margin: 20px 0px;
+}
+
+.intro-text-area {
+    background-color: grey;
+    text-align: center;
+    padding: 40px 0;
+    margin-bottom: 25px;
+}
+
+.box-5 {
+    width: 33%;
+    display: inline-block;
+    padding: 0px 5px 0px 0px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.box-6 {
+    width: 34%;
+    display: inline-block;
+    padding: 0px 5px 0px 5px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.box-7 {
+    width: 33%;
+    display: inline-block;
+    padding: 0px 0px 0px 5px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.content-second {
+    background-color: grey;
+    font-size: 24px;
+    padding: 200px 10px;
+    text-align: center;
+}
+
+.footer {
+    background-color: grey;
+    text-align: center;
+    font-size: 24px;
+    padding: 10px 0;
+}

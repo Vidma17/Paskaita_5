@@ -1,0 +1,61 @@
+body {
+    font-family: arial;
+    background-color: rgb(202, 202, 202);
+    margin: 50px;
+}
+
+header {
+    background-color: grey;
+}
+
+.logo {
+    padding: 0px 20px;
+    display: inline-block;
+}
+
+nav {
+    padding: 25px 200px 0px 0px;
+    display: inline-block;
+    float: right;
+}
+
+.banner {
+    background-color: grey;
+    text-align: center;
+    font-size: 24px;
+    padding: 50px 0;
+    margin: 20px 0px;
+    width: 66%;
+    display: inline-block;
+    margin: 10px 0px 20px 0px;
+    float: right;
+}
+
+.body-area {
+    background-color: grey;
+    text-align: center;
+    margin-bottom: 25px;
+    padding: 200px 0px;
+    width: 66%;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    float: right;
+}
+
+.side-bar, .navigation {
+    font-size: 24px;
+    width: 32%;
+    display: inline-block;
+}
+
+.klase {
+    padding: 50px 0px;
+}
+
+.footer {
+    background-color: grey;
+    text-align: center;
+    font-size: 24px;
+    padding: 10px 0;
+    margin: 460px 0px 0px 0px;
+}
